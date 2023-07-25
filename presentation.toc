@@ -1,0 +1,11 @@
+\babel@toc {english}{}\relax 
+\beamer@sectionintoc {1}{About Me}{3}{0}{1}
+\beamer@sectionintoc {2}{Image Processing}{4}{0}{2}
+\beamer@sectionintoc {3}{Machine Learning}{6}{0}{3}
+\beamer@subsectionintoc {3}{1}{Some Definitions}{6}{0}{3}
+\beamer@subsectionintoc {3}{2}{Overfitting and Underfitting}{10}{0}{3}
+\beamer@subsectionintoc {3}{3}{Optimization for Training Machine Learning Models}{11}{0}{3}
+\beamer@sectionintoc {4}{Modern Practical Deep Networks}{14}{0}{4}
+\beamer@subsectionintoc {4}{1}{Deep Feedforward Networks}{14}{0}{4}
+\beamer@subsubsectionintoc {4}{1}{1}{Deep Neural Networks}{17}{0}{4}
+\beamer@subsubsectionintoc {4}{1}{2}{Convolutional Neural Networks (CNNs)}{20}{0}{4}
